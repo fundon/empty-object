@@ -1,0 +1,10 @@
+{
+  "name": "empty-object",
+  "description": "Empty object",
+  "version": "1.0.0",
+  "keywords": ["empty", "object"],
+  "dependencies": {},
+  "scripts": [
+    "index.js"
+  ]
+}
